@@ -1,0 +1,16 @@
+Pixar	NAM	Pixar
+offre	VER:pres	offrir
+à	PRP	à
+sa	DET:POS	son
+première	NUM	premier
+véritable	ADJ	véritable
+héroïne	NOM	héroïne
+un	DET:ART	un
+grand	ADJ	grand
+film	NOM	film
+d'aventures	VER:pres	d'aventures
+Un	VER:pper	Un
+petit	ADJ	petit
+bijou	NOM	bijou
+,	PUN	,
+P	NAM	P

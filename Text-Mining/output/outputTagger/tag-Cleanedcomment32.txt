@@ -1,0 +1,16 @@
+Beaucoup	ADV	beaucoup
+de	PRP	de
+contrepieds	NOM	contrepieds
+pas	ADV	pas
+vraiment	ADV	vraiment
+de	PRP	de
+vertige	NOM	vertige
+beaucoup	ADV	beaucoup
+d'ironie	VER:pper	d'ironie
+mais	KON	mais
+pas	ADV	pas
+franchement	ADV	franchement
+de	PRP	de
+surprise	NOM	surprise
+,	PUN	,
+N	VER:pper	N
